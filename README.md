@@ -30,7 +30,8 @@ I have developed a [warning system](https://smn.conagua.gob.mx/es/mapas-de-prono
   
 - **Dynamic report of historical forest fires in Mexico**
   
-  ![Tablero](/assets/img/data_3.png)
+  ![Tablero](/assets/img/data_3.png
+  
 I have developed a dynamic dashboard showing forest fire activity in Mexico and hectares affected from 2005 to 2023. To create it, I analyzed and cleaned more than 147,000 records provided by the National Forestry Commission. This data was stored in a PostgreSQL database. The dashboard allows you to explore statistics by entity and compare current activity with historical information.
 
 
