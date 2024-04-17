@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Geoscientist
+Geoscientist - Faculty of Science, UNAM
 
 ### Work experience
 Atmospheric Monitoring Supervisor @ National Weather Service
