@@ -24,7 +24,7 @@ I have made a statistical adjustment to the numerical forecast model of the Nati
   ![Percentil](/assets/img/data_2.png)
   
 I have developed a warning system for extreme maximum temperatures in Mexico. To achieve this, I performed an exhaustive analysis of historical temperature data from 1950 to 2022. The objective was to calculate the 95th, 99th and 99.9th percentiles using a regular 7 km resolution grid over the entire Mexican territory. By combining this analysis with the previous project, it is now possible to predict maximum temperatures by region that will fall within 5%, 1% and 0.1% of the warmest recorded data. By issuing this type of alert, preventive measures can be taken to reduce the impact on different strategic sectors of the country.
- [warning system](https://smn.conagua.gob.mx/es/mapas-de-pronostico-de-temperatura-maxima-extrema)
+ ![warning system](https://smn.conagua.gob.mx/es/mapas-de-pronostico-de-temperatura-maxima-extrema)
   
 - Dynamic report of historical forest fires in Mexico
   ![Tablero](/assets/img/data_3.png)
