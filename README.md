@@ -4,7 +4,7 @@
 Geoscientist
 
 ### Work experience
-Data analyst @ National Weather Service
+Atmospheric Monitoring Supervisor @ National Weather Service
 - big impact project 1!
 - big impact project 2!
 
