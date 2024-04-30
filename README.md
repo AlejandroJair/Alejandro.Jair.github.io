@@ -29,15 +29,15 @@ I have developed a [warning system](https://smn.conagua.gob.mx/es/mapas-de-prono
 
 - **Machine Learning Forecasting for Forest Fires**
   
-  ![ML]()
+  ![ML](/assets/img/ML_fire_forecast.png)
 
 I made a forecast of forest fires in Mexico for the 2024 season. Quantile regression trees were used to analyze a data series reconstructed with values from CONAFOR and SMN. The features used to strengthen the model were temporal patterns and climatic variables. The 50 and 95% prediction intervals were also obtained.
 
 - **Dynamic daily report of active forest fires**
   
-  ![Tablero_active]()
+  ![Tablero_active](/assets/img/active_fire.png)
   
-I developed a dynamic dashboard with the daily update made by the National Forestry Commission, which shows the material and human resources assigned to fight forest fires, as well as the number of active fires and their distribution by entity.
+I developed a [dynamic dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU4OGE0MzgtN2I4Mi00NTkyLTk1NWYtNWRmY2U2NGRjMzgxIiwidCI6ImY4M2U0YTc4LWY5Y2UtNGIzZC1hNjZmLTk5ZTUwOTIzNTAyZSIsImMiOjR9) with the daily update made by the National Forestry Commission, which shows the material and human resources assigned to fight forest fires, as well as the number of active fires and their distribution by entity.
 
 - **Dynamic report of historical forest fires in Mexico**
   
