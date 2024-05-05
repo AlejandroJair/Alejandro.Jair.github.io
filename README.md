@@ -37,7 +37,7 @@ I made a forecast of forest fires in Mexico for the 2024 season. Quantile regres
   
   ![Tablero_active](/assets/img/active_fire.png)
   
-I developed a [dynamic dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU4OGE0MzgtN2I4Mi00NTkyLTk1NWYtNWRmY2U2NGRjMzgxIiwidCI6ImY4M2U0YTc4LWY5Y2UtNGIzZC1hNjZmLTk5ZTUwOTIzNTAyZSIsImMiOjR9) with the daily update made by the National Forestry Commission, which shows the material and human resources assigned to fight forest fires, as well as the number of active fires and their distribution by entity.
+I developed a [dynamic dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA5YTE4ZTYtZTQ0Mi00YTVmLTg3NGQtOGFiOTIyMGM1OGFiIiwidCI6ImY4M2U0YTc4LWY5Y2UtNGIzZC1hNjZmLTk5ZTUwOTIzNTAyZSIsImMiOjR9) with the daily update made by the National Forestry Commission, which shows the material and human resources assigned to fight forest fires, as well as the number of active fires and their distribution by entity.
 
 - **Dynamic report of historical forest fires in Mexico**
   
