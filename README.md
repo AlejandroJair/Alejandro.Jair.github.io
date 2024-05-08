@@ -19,7 +19,7 @@ Data consultant @ National Weather Service (Sep 2020 - Present)
   
   ![Gráficas](/assets/img/data_1.png)
 
-I have made a statistical adjustment to the numerical forecast model of the National Weather Service. This adjustment consists of calculating and correcting the forecast bias over the last 15 days, and is run automatically on a daily basis. As a result, it was possible to increase the accuracy of the weather forecasts for maximum and minimum temperatures in Mexico by up to 90%.
+I have made a statistical adjustment to the numerical forecast model of the National Weather Service. This adjustment consists of calculating and correcting the forecast bias over the last 15 days, running automatically on a daily basis. As a result, it was possible to increase the accuracy of the weather forecasts for maximum and minimum temperatures in Mexico by up to 90%.
 
 - **Extreme maximum temperature warning system**
   
