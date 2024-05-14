@@ -58,6 +58,6 @@ States, Canada and Mexico. Monthly publication issued since October 2022.
 
 ##Prueba gráfica animada
 
-![GC](/assets/img/index.html)
+![GC](/assets/img/circle_plot.html)
 
 
