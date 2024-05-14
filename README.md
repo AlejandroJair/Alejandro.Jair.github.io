@@ -56,4 +56,8 @@ States, Canada and Mexico. Monthly publication issued since October 2022.
 
 [Publication](http://www.agua.unam.mx/assets/pdfs/impluvium/numero10.pdf)
 
+##Prueba gráfica animada
+
+![GC](/assets/img/index.html)
+
 
